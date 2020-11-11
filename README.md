@@ -5,7 +5,7 @@
 ## INSTRUCTIONS
 
 ### Part 1
-1) Simply get a programming board, plug it into the main core of the construct and 1 Screen.
+1) Simply get a programming board, plug it into the main core of the construct and 2 Screens.
 2) Download / Copy [Raw-Ore-Screen.json](https://raw.githubusercontent.com/TwinFuture/Dual-Universe--Raw-Ore-Screen/main/Raw-Ore-Screen.json)
 3) Right click the programming board and select Advanced -> Paste Lua Configuration From Clipboard
 
