@@ -1,6 +1,6 @@
 # Dual-Universe Raw N Refined Screens
 ### Display both your ores and refined items on 2 screens, simple setup.
-
+![Preview](https://raw.githubusercontent.com/TwinFuture/Dual-Universe--Raw-N-Refined-Screens/main/images/2020-11-11%20(1).png)
 
 ## INSTRUCTIONS
 
