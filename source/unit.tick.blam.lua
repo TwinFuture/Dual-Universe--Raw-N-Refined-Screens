@@ -39,7 +39,7 @@ end
 
 local calc = function (maxHP, weight, mass)
     local containerProficiency = 30 --export
-    local hubVol = 114400 --export
+    local hubVol = 1280000 --export
     local sizes = {
         -- Mining and Inventory, Inventory Manager, Container Proficiency.
         -- Containers, min - max Hitpoints, Base Volume, Base Weight
