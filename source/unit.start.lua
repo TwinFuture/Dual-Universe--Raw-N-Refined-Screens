@@ -26,7 +26,9 @@ core, screen1, screen2 = {};
 local slots = {slot1,slot2,slot3}
 
 for i = 1, #slots do
-    if slots[i].getElementClass() == 'CoreUnitStatic' then
+    if slots[i].getElementClass() == 'CoreUnitStatic'
+    or slots[i].getElementClass() == 'CoreUnitSpace'
+    or slots[i].getElementClass() == 'CoreUnitDynamic' then
         core = slots[i]
     end
     -- If screen1 is set, set screen2
